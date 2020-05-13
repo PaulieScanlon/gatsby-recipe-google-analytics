@@ -1,0 +1,35 @@
+{
+  "name": "gatsby-recipe-google-analytics",
+  "version": "1.0.0",
+  "description": "A Gatsby Recipe for adding gatsby-plugin-google-analytics",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/gatsby-recipe-google-analytics.git"
+  },
+  "keywords": [
+    "Gatsby",
+    "Gatsby",
+    "Recipe",
+    "Google",
+    "Analytics"
+  ],
+  "author": "Paul Scanlon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/gatsby-recipe-google-analytics/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/gatsby-recipe-google-analytics#readme",
+  "dependencies": {
+    "gatsby": "^2.21.24",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
